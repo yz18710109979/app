@@ -10,6 +10,7 @@
     <modules>
         <module>app-Core</module>
         <module>app-SpringCloudAli-Provider</module>
+        <module>app-SpringCloudAli-Consumer</module>
     </modules>
 
     <packaging>pom</packaging>
