@@ -9,6 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>app-Core</module>
+        <module>app-SpringCloudAli-Provider</module>
     </modules>
 
     <packaging>pom</packaging>
